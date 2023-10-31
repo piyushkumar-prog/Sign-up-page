@@ -1,0 +1,94 @@
+html{
+    background-color: #cac7ff ;
+}
+
+p{
+    color:black;
+    font-weight:bold;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+
+}
+#email{
+    color:black;
+    text-align:center;
+    font-size:1em;
+}
+#password{
+    color:black;
+    text-align:center;
+    font-size:1em;
+}
+#phoneno{
+    color:black;
+    text-align:center;
+    font-size:1em;
+}
+#sports{
+    color:black;
+    text-align:center;
+    font-size:1em;
+
+}
+.button1{
+    color:white;
+    background-color:black;
+    width:250px;
+    text-align:center;
+    font-size:1em;
+
+}
+form{
+    text-align: right ;
+}
+legend{
+    font-size:3em;
+    font-style:normal ;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+}
+.c{
+    font-weight:bold;
+    font-size:1em;
+
+}
+.c1{
+    font-weight:bold;
+    font-size:1em;
+
+}
+.c2{
+    font-weight:bold;
+    font-size:1em;
+
+}
+.c3{
+    font-weight:bold;
+    font-size:1em;
+
+}
+.c4{
+    font-weight:bold;
+    font-size:1em;
+
+}
+.c5{
+    font-weight:bold;
+    font-size:1em;
+
+}
+.c6{
+    font-weight:bold;
+    font-size:1em;
+
+}
+
+.e1{
+    position:absolute;
+    left:0px;
+    right:500px;
+    top:10px;
+    
+    z-index:-1;
+}
+h2{
+    text-align:center ;
+}
